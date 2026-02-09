@@ -87,10 +87,11 @@ cd health-insurance-charges-prediction
 pip install -r requirements.txt
 streamlit run app.py
 
-Conclusion
+## Conclusion
 
-This project demonstrates a complete end-to-end machine learning regression workflow,
-from data analysis and preprocessing to model training, evaluation, and deployment.
+**This project demonstrates a complete end-to-end machine learning regression workflow**,  
+covering data analysis, preprocessing, model training, evaluation, and deployment using Streamlit.
+
 
 Future Improvements
 
