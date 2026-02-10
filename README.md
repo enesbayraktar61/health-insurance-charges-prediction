@@ -79,16 +79,6 @@ health_insurance_prediction/
 
 ---
 
-## How to Run Locally
-
-```bash
-git clone https://github.com/enesbayraktar61/health-insurance-charges-prediction.git
-cd health-insurance-charges-prediction
-pip install -r requirements.txt
-streamlit run app.py
-
----
-
 Conclusion
 
 This project demonstrates a complete end-to-end machine learning regression workflow,
@@ -103,3 +93,15 @@ Hyperparameter tuning
 Feature importance visualization
 
 Additional model comparisons
+
+---
+
+## How to Run Locally
+
+```bash
+git clone https://github.com/enesbayraktar61/health-insurance-charges-prediction.git
+cd health-insurance-charges-prediction
+pip install -r requirements.txt
+streamlit run app.py
+
+---
